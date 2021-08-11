@@ -1,2 +1,2 @@
 # Digital-Timer
-link: https://lavkush5776.github.io/Digital-Timer/
+link: http://silly-brown-05fc46.netlify.app
